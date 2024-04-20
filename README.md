@@ -2,6 +2,8 @@
 
 Welcome to Virtual Escape, an immersive VR escape room game built with Unity! Dive into two unique levels, each with its own captivating theme, music, and atmosphere. Solve challenging puzzles to unlock the doors and progress through the game. Can you escape the strange house?
 
+Design Document: https://docs.google.com/presentation/d/1T2HksyZ4tRlUEg4ShjmdeH3D3TrDvZKx/
+
 ## Features
 
 - **Two Unique Levels:**
